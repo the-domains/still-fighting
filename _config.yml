@@ -12,3 +12,6 @@ color:
     - '#3E606F'
     - '#193441'
 name: still fighting
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/14bb4784-41c7-4a07-9756-57393ca3de60.jpg
